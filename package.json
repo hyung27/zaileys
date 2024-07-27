@@ -42,7 +42,7 @@
   ],
   "dependencies": {
     "@hapi/boom": "^10.0.1",
-    "baileys": "npm@whiskeysockets/baileys",
+    "baileys": "npm:@whiskeysockets/baileys@latest",
     "cfonts": "^3.2.0",
     "chalk": "^4.1.2",
     "dayjs": "^1.11.11",
